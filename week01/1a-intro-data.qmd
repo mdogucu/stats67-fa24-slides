@@ -501,6 +501,8 @@ knitr::include_graphics("img/diagram.png")
 ```
 
 
+## Learning Tip of the Day
 
+[Class Attendance in College: A Meta-Analytic Review of the Relationship of Class Attendance With Grades and Student Characteristics](https://journals.sagepub.com/doi/abs/10.3102/0034654310362998)
 
 
