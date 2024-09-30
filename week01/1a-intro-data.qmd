@@ -311,7 +311,7 @@ knitr::include_graphics("img/quarto.006.png")
 
 ## Slides for this course
 
-Slides that you are currently looking at are also written in Quarto. You can take a look at them on [GitHub repo](https://github.com/mdogucu/stats67-fa23-slides) for the course website.
+Slides that you are currently looking at are also written in Quarto. You can take a look at them on [GitHub repo](https://github.com/mdogucu/stats67-fa24-slides) for the course website.
 
 ##
 
