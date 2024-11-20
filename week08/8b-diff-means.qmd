@@ -353,3 +353,13 @@ Students in the anti-bias language condition had significantly higher rankings o
 
 
 Write out hypotheses that would test the claim about the evaluation of female instructors.
+
+## Type 1 vs. Type 2 Errors
+
+```{r}
+#| fig-align: center
+knitr::include_graphics("img/type-1-2-error.png")
+```
+
+Note that we have often set the Type 1 error rate ($\alpha$) to 0.05. In future statistics courses, you might also see statistical power which is 1 - Type 2 error rate ($1 - \beta$).
+
