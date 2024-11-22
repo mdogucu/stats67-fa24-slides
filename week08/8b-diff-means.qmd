@@ -36,7 +36,7 @@ Confidence Interval = point estimate $\pm$ critical value $\times$ standard erro
 |                               | point estimate        | critical value | standard error of the estimate                    |
 |-------------------------------|-----------------------|:--------------:|---------------------------------------------------|
 | single proportion             | $p$                   | z*             | $\sqrt{\frac{p(1-p)}{n}}$                         |
-| difference of two proportions | $p_1-p_2$             | z*             | $\sqrt{\frac{p_1(1-p_1)}{n}+\frac{p_2(1-p_2)}{n}}$ |
+| difference of two proportions | $p_1-p_2$             | z*             | $\sqrt{\frac{p_1(1-p_1)}{n_1}+\frac{p_2(1-p_2)}{n_2}}$ |
 | single mean                   | $\bar x$              | $t*_{df}$      | $\sqrt{\frac{s^2}{n}}$                            |
 | difference of two means       | $\bar x_1 - \bar x_2$ | $t*_{df}$      | $\sqrt{\frac{s_1^2}{n_1} + \frac{s_2^2}{n_2}}$    |
 
