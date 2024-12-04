@@ -280,19 +280,19 @@ We want to find the maximum  value of $\pi$.
 
 
 
-## Step 2: Find ln L(\pi)
+## Step 2: Find ln L($\pi$)
 
-$\ell(\pi = \ln L(\pi) = \ln[\pi^{\sum_{i=1}^nx_i}(1-\pi)^{\sum_{i=1}^n1-x_i}]$
+$\ell(\pi) = \ln L(\pi) = \ln[\pi^{\sum_{i=1}^nx_i}(1-\pi)^{\sum_{i=1}^n1-x_i}]$
 
 . . .
 
-$\ell(\pi)= {\sum_{i=1}^nx_i}\ln(\pi) + n-{\sum_{i=1}^nx_i}\ln(1-\pi)$
+$\ell(\pi)= ({\sum_{i=1}^nx_i})\ln(\pi) + (n-{\sum_{i=1}^nx_i})\ln(1-\pi)$
 
 
 
-## Step 3: Take the first derivative with respect $p$
+## Step 3: Take the first derivative with respect $\pi$
 
-$\frac{d}{d\pi}\ell(\pi) = \frac{d}{d\pi}[{\sum_{i=1}^nx_i}\ln(\pi) + n-{\sum_{i=1}^nx_i}\ln(1-\pi)]$
+$\frac{d}{d\pi}\ell(\pi) = \frac{d}{d\pi}[({\sum_{i=1}^nx_i})\ln(\pi) + (n-{\sum_{i=1}^nx_i})\ln(1-\pi)]$
 
 
 . . .
